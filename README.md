@@ -1,2 +1,2 @@
-# Wheather_Forcasting_Web
-Interactive Wheather forcasting website.
+# Weather_Forecasting_Web
+Interactive Weather forecasting website.
