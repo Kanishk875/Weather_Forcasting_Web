@@ -1,2 +1,2 @@
-# Weather_Forecasting_Web
+# WeatherWhiz
 Interactive Weather forecasting website.
